@@ -34,7 +34,7 @@ export default function Document() {
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property='og:type' content='website' />
-        <meta property='og:url' content='https://yelpcamp2.vercel.app' />
+        <meta property='og:url' content='https://yelpcamp-dun-eight.vercel.app' />
         <meta property='og:title' content='YelpCamp | Campgrounds' />
         <meta
           property='og:description'
@@ -42,12 +42,12 @@ export default function Document() {
         />
         <meta
           property='og:image'
-          content='https://yelpcamp2.vercel.app/home.png'
+          content='https://yelpcamp-dun-eight.vercel.app/home.png'
         />
 
         {/* <!-- Twitter --> */}
         <meta property='twitter:card' content='summary_large_image' />
-        <meta property='twitter:url' content='https://yelpcamp2.vercel.app' />
+        <meta property='twitter:url' content='https://yelpcamp-dun-eight.vercel.app/' />
         <meta property='twitter:title' content='YelpCamp | Campgrounds' />
         <meta
           property='twitter:description'
@@ -55,7 +55,7 @@ export default function Document() {
         />
         <meta
           property='twitter:image'
-          content='https://yelpcamp2.vercel.app/home.png'
+          content='https://yelpcamp-dun-eight.vercel.app/home.png'
         />
       </Head>
       <body className='bg-primaryBg'>
